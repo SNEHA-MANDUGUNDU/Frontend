@@ -1,0 +1,59 @@
+.adminrole {
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.adminlogout {
+    display: flex;
+    height: 60px;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.adminlogout h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.adminlogout button {
+    height: 40px;
+    margin-top: 10px;
+}
+
+.adminActivity {
+    width: 70%;
+    margin-left: 10px;
+}
+
+
+.adminbg img {
+    margin-top: 5px;
+    background-size: cover;
+}
+
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+thead th {
+    border: 2px solid black;
+
+}
+
+tbody td {
+    border: 1px solid black;
+    color: blue;
+}
+
+th,
+td {
+    border: 2px solid black;
+    padding: 15px;
+}
